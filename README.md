@@ -1,7 +1,5 @@
 ### Hello WORLD! 👋
 
-## ⚡ About Me:
-
 <p align="center">
 I'm a front end web designer,I create clean,proffesional and functional websites, my favourite coding language is Java and Python
 <br>
