@@ -10,7 +10,7 @@
 
 ## Follow Me
 
-🐣   [Twitter](https://twitter.com/decoder6)
+🐣   [Twitter](https://twitter.com/de_coder6)
 
 💬   [Github](https://github.com/l00pinfinity)
 
