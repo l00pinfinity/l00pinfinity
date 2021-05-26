@@ -4,7 +4,7 @@
 
 - 🎤 I am a student
  
-- 🛸 Currently learning Angular,React,Node.js ...
+- 🛸 Currently learning Java, Spark
 
 - 📺 The code WAR!
 
