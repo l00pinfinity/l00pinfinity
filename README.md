@@ -1,8 +1,6 @@
 ## Hello WORLD! 👋
 
 ### About me
-
-- 🎤 I am a student
  
 - 🛸 Currently learning Java, Spark
 
@@ -10,7 +8,7 @@
 
 ## Follow Me
 
-🐣   [Twitter](https://twitter.com/de_coder6)
+🐣   [Twitter](https://twitter.com/l00pinfinity)
 
 💬   [Github](https://github.com/l00pinfinity)
 
