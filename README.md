@@ -2,7 +2,7 @@
 
 ### About me
  
-- 🛸 Currently learning Java, Spark
+- 🛸 Currently learning Android Development using Java
 
 - 📺 The code WAR!
 
