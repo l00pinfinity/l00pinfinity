@@ -1,15 +1,23 @@
 ## Hello WORLD! 👋
+$ sudo apt install moti-vati-on
 
-### About me
- 
-- 🛸 Currently learning Android Development using Java
+# About me
 
-- 📺 The code WAR!
+```python
 
-## Follow Me
+currently learning Java,Kotlin & PHP
+```
 
-🐣   [Twitter](https://twitter.com/l00pinfinity)
+## Let's connect
+##### Twitter
 
-💬   [Github](https://github.com/l00pinfinity)
+```bash
+https://twitter.com/l00pinfinity
+```
+##### Linkedin
+
+```bash
+https://www.linkedin.com/in/collins-boit-57abb8201/
+```
 
 # Happy Coding
