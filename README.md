@@ -1,20 +1,19 @@
-## Hello WORLD! 👋
+# Hello WORLD! 👋
 $ sudo apt install moti-vati-on
 
-# About me
+## About me
 
 ```python
-
 currently learning Java,Kotlin & PHP
 ```
 
 ## Let's connect
-##### Twitter
+##### [Twitter](https://twitter.com/l00pinfinity)
 
 ```bash
 https://twitter.com/l00pinfinity
 ```
-##### Linkedin
+##### [Linkedin](https://www.linkedin.com/in/collins-boit-57abb8201/)
 
 ```bash
 https://www.linkedin.com/in/collins-boit-57abb8201/
