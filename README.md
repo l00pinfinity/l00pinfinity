@@ -9,8 +9,8 @@ I am looking for opportunities and collabaration in projects related to Java, Ko
     - 🔭 I'm currently building my personal projects in android and web using Angular.
     - 🌱 I’m currently learning jetpack compose and php.
     - 🤝 I’m looking to collaborate on more open source this year. 
-    - 💬 I play PUBG MOBILE send your game ID, 
-    - ⚡ I'm also a Chelsea fan
+    - 💬 I play PUBG MOBILE my game ID 5896358419. 
+    - ⚡ I'm also a Chelsea fan.
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=l00pinfinity&show_icons=true" alt="code blooded" /></p>
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=l00pinfinity&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="code blooded" /></p>
