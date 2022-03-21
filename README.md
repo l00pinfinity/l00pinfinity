@@ -18,8 +18,8 @@ I am looking for opportunities and collabaration in projects related to Java, Ko
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=l00pinfinity&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="code blooded" />
 
-![til](assets/97639-coding.gif)
-
+<!-- ![til](assets/97639-coding.gif)
+ -->
 #### $ sudo apt install moti-vati-on
 
 </div>
